@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: 2022-MM-DD
+date: 2022-05-30
 ---
 
 yrdtydtyd
